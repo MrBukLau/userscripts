@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         iTunes Artwork Grabber
-// @description  Gets the artwork from a iTunes web page
+// @description  Gets high-resolution artwork for apps, music, books, movies, TV shows, podcasts, and more
 // @namespace    https://sparanoid.com/work/itunes-artwork-grabber/
 // @author       Tunghsiao Liu
 // @modifier     MrBukLau
