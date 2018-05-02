@@ -3,7 +3,7 @@
 // @description    Adds a favicon to NextMD
 // @author         Buk Lau
 // @version        0.1
-// @include        https://www.nextmd.com/ud2/*
+// @include        *nextmd.com/ud2/*
 // @grant          none
 // ==/UserScript==
 
