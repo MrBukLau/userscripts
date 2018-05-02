@@ -9,7 +9,7 @@
 
 var favicon_link_html = document.createElement('link');
 favicon_link_html.rel = 'icon';
-favicon_link_html.href = 'https://github.com/MrBukLau/Favicons-for-Websites/blob/master/NextMD%20Favicon.png?raw=true';
+favicon_link_html.href = 'https://github.com/MrBukLau/Tampermonkey-Scripts/blob/master/Favicons/NextMD%20Favicon.png?raw=true';
 favicon_link_html.type = 'image/png';
 
 try {
