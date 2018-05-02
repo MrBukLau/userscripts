@@ -3,7 +3,7 @@
 // @description  Gets high-resolution artwork for apps, music, books, movies, TV shows, podcasts, and more
 // @namespace    https://sparanoid.com/work/itunes-artwork-grabber/
 // @author       Tunghsiao Liu
-// @modifier     MrBukLau
+// @modifier     Buk Lau
 // @version      1.0.8
 // @include      *://itunes.apple.com/*/*
 // @grant        none
