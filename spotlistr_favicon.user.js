@@ -3,7 +3,7 @@
 // @description    Adds a favicon to Spotlistr
 // @author         Buk Lau
 // @version        0.1
-// @include        http://spotlistr.herokuapp.com/
+// @include        *spotlistr.herokuapp.com/*
 // @grant          none
 // ==/UserScript==
 
