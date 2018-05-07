@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Yahoo Mail Favicon
-// @description    Adds a favicon to NextMD
+// @description    Adds a favicon to Yahoo Mail
 // @author         Buk Lau
 // @version        0.1
 // @include        *mg.mail.yahoo.com/neo/m/*
