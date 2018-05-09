@@ -3,7 +3,7 @@
 // @description    Adds a favicon to MyHealthConnection
 // @author         Buk Lau
 // @version        0.1
-// @include        *secure.orclinic.com*
+// @include        *secure.orclinic.com/*
 // @grant          none
 // ==/UserScript==
 
