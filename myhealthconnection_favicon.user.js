@@ -9,7 +9,7 @@
 
 var favicon_link_html = document.createElement('link');
 favicon_link_html.rel = 'icon';
-favicon_link_html.href = 'http://www.oregonclinic.com/sites/default/files/favicon_32px.ico';
+favicon_link_html.href = 'https://raw.githubusercontent.com/MrBukLau/Tampermonkey-Scripts/master/Favicons/MyHealthConnection%20Favicon.ico';
 favicon_link_html.type = 'image/ico';
 
 try {
