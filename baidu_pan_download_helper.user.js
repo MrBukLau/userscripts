@@ -6,6 +6,7 @@
 // @author             ywzhaiqi
 // @modifier           Buk Lau
 // @description        批量导出百度盘的下载链接
+// @icon               https://www.baidu.com/favicon.ico
 // @grant              GM_getValue
 // @grant              GM_setValue
 // @grant              GM_addStyle
