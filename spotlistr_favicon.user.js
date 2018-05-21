@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name           Spotlistr Favicon
-// @description    Adds a favicon to Spotlistr
-// @author         Buk Lau
-// @version        0.1
-// @include        *spotlistr.herokuapp.com/*
-// @grant          none
+// @name               Spotlistr Favicon
+// @version            0.1
+// @description        Adds a favicon to Spotlistr
+// @icon               https://github.com/MrBukLau/Tampermonkey-Scripts/blob/master/Favicons/Spotlistr%20Favicon.png?raw=true
+// @include            *spotlistr.herokuapp.com/*
+// @author             Buk Lau
+// @grant              none
 // ==/UserScript==
 
 var favicon_link_html = document.createElement('link');
