@@ -7,10 +7,11 @@
 // @homepage           https://greasyfork.org/en/scripts/368003-youtube-always-theater-mode
 // @author             Volkan K.
 // @modifier           Buk Lau
+// @license            GPL v3
 // @grant              none
 // @run-at             document-start
-// @require 	         https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js
-// @require          	 https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.0.4/js.cookie.min.js
+// @require 	       https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js
+// @require            https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.0.4/js.cookie.min.js
 // ==/UserScript==
 
 this.$ = this.jQuery = jQuery.noConflict(true);
