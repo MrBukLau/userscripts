@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name           NextMD Favicon
-// @description    Adds a favicon to NextMD
-// @author         Buk Lau
-// @version        0.1
-// @include        *nextmd.com/ud2/*
-// @grant          none
+// @name               NextMD Favicon
+// @version            0.1
+// @description        Adds a favicon to NextMD
+// @icon               https://github.com/MrBukLau/Tampermonkey-Scripts/blob/master/Favicons/NextMD%20Favicon.png?raw=true
+// @include            *nextmd.com/ud2/*
+// @author             Buk Lau
+// @grant              none
 // ==/UserScript==
 
 var favicon_link_html = document.createElement('link');
