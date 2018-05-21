@@ -7,6 +7,7 @@
 // @homepage           https://greasyfork.org/en/scripts/38152-hide-email-address-from-title-bar
 // @author             Jefferson "jscher2000" Scher
 // @modifier           Buk Lau
+// @license            BSD-3-Clause
 // @grant              none
 // ==/UserScript==
 
