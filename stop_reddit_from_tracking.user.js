@@ -2,6 +2,8 @@
 // @name         Stop Reddit from Tracking
 // @description  Replaces data-outbound-url with data-href-url
 // @icon         https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-76x76.png
+// @homepage     https://old.reddit.com/r/privacy/comments/4aqdg0/reddit_started_tracking_the_links_we_click_heres/
+// @namespace    http://reddit.com/u/OperaSona
 // @author       OperaSona
 // @version      1.0
 // @match        *://*.reddit.com/*
