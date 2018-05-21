@@ -1,12 +1,10 @@
 // ==UserScript==
 // @name               Hide Email Address from Gmail Title Bar
-// @namespace          JeffersonScher
+// @version            0.5
 // @description        Remove email address from title bar on Gmail
 // @icon               https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
 // @include            https://mail.google.com/*
 // @homepage           https://greasyfork.org/en/scripts/38152-hide-email-address-from-title-bar
-// @version            0.5
-// @license            BSD-3-Clause
 // @author             Jefferson "jscher2000" Scher
 // @modifier           Buk Lau
 // @grant              none
