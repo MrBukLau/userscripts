@@ -3,6 +3,7 @@
 // @description  Replaces data-outbound-url with data-href-url
 // @icon         https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-76x76.png
 // @author       OperaSona
+// @version      1.0
 // @match        *://*.reddit.com/*
 // @grant        none
 // ==/UserScript==
