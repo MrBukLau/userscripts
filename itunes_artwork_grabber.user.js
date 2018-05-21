@@ -1,13 +1,14 @@
 // ==UserScript==
-// @name         iTunes Artwork Grabber
-// @description  Gets high-resolution artwork for apps, music, books, movies, TV shows, podcasts, and more
-// @namespace    https://sparanoid.com/work/itunes-artwork-grabber/
-// @author       Tunghsiao Liu
-// @modifier     Buk Lau
-// @version      1.0.8
-// @include      *://itunes.apple.com/*/*
-// @grant        none
-// @run-at       document-end
+// @name               iTunes Artwork Grabber
+// @version            1.0.8
+// @description        Gets high-resolution artwork for apps, music, books, movies, TV shows, podcasts, and more
+// @icon               https://www.shareicon.net/download/2016/08/01/639906_apple.svg
+// @include            *://itunes.apple.com/*/*
+// @homepage           https://sparanoid.com/work/itunes-artwork-grabber/
+// @author             Tunghsiao Liu
+// @modifier           Buk Lau
+// @grant              none
+// @run-at             document-end
 // ==/UserScript==
 
 // Test URLs
