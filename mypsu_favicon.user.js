@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name           myPSU Favicon
-// @description    Adds a favicon to myPSU
-// @author         Buk Lau
-// @version        0.1
-// @include        *my.pdx.edu*
-// @grant          none
+// @name               myPSU Favicon
+// @version            0.1
+// @description        Adds a favicon to myPSU
+// @icon               https://www.pdx.edu/sites/all/themes/pdx_respond/favicon.ico
+// @include            *my.pdx.edu*
+// @author             Buk Lau
+// @grant              none
 // ==/UserScript==
 
 var favicon_link_html = document.createElement('link');
