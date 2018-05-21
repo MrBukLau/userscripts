@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name           MyHealthConnection Favicon
-// @description    Adds a favicon to MyHealthConnection
-// @author         Buk Lau
-// @version        0.1
-// @include        *secure.orclinic.com*
-// @grant          none
+// @name               MyHealthConnection Favicon
+// @version            0.1
+// @description        Adds a favicon to MyHealthConnection
+// @icon               https://raw.githubusercontent.com/MrBukLau/Tampermonkey-Scripts/master/Favicons/MyHealthConnection%20Favicon.ico
+// @include            *secure.orclinic.com*
+// @author             Buk Lau
+// @grant              none
 // ==/UserScript==
 
 var favicon_link_html = document.createElement('link');
