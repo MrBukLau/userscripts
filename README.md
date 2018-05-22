@@ -13,4 +13,4 @@ These javascripts will make websites look and function better
 * [Hide Email Address from Gmail Title Bar](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/hide_gmail.user.js)
 * [iTunes Artwork Grabber](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/itunes_artwork_grabber.user.js)
 * [Stop Reddit from Tracking](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/stop_reddit_from_tracking.user.js)
-* [YouTube - Always Theater Mode](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/youtube_always_theater_mode.user.js]
+* [YouTube - Always Theater Mode](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/youtube_always_theater_mode.user.js)
