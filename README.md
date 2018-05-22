@@ -1,5 +1,7 @@
 # Tampermonkey-Scripts
-These javascripts will make websites look and function better
+These javascripts will make websites look and function better.
+
+Click on the links below to add them to [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 
 ## Available Favicons
 * [MyHealthConnection Favicon](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/myhealthconnection_favicon.user.js)
