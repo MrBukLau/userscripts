@@ -1,7 +1,4 @@
 # Tampermonkey Userscripts [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MrBukLau/tampermonkey-userscripts/blob/master/LICENSE)
-
-<a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo"><img src="https://raw.githubusercontent.com/MrBukLau/tampermonkey-userscripts/master/favicons/images/Tampermonkey%20Logo.png" align="left" width="60"></a>
-
 These javascripts will make various websites look and function better.
 
 Click on the links below to add them to Tampermonkey.
