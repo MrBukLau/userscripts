@@ -1,4 +1,4 @@
-# Tampermonkey Userscripts<br>[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MrBukLau/tampermonkey-userscripts/blob/master/LICENSE)
+# Tampermonkey Userscripts<br>[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MrBukLau/tampermonkey-userscripts/blob/master/LICENSE.md)
 These javascripts will make various websites look and function better.
 
 Click on the links below to add them to Tampermonkey.
@@ -20,4 +20,4 @@ Click on the links below to add them to Tampermonkey.
 * [Reddit - Stop Tracking Outbound Links](https://github.com/MrBukLau/tampermonkey-userscripts/raw/master/javascripts/reddit_stop_tracking_outbound_links.user.js)
 
 ## License
-[MIT](https://github.com/MrBukLau/tampermonkey-userscripts/blob/master/LICENSE)
+[MIT](https://github.com/MrBukLau/tampermonkey-userscripts/blob/master/LICENSE.md)
