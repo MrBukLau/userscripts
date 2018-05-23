@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               MyHealthConnection Favicon
+// @name               MyHealthConnection - Favicon
 // @version            0.1
 // @description        Adds a favicon to MyHealthConnection
 // @icon               https://raw.githubusercontent.com/MrBukLau/Tampermonkey-Userscripts/master/Favicons/Images/MyHealthConnection%20Favicon.ico
