@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Bring Back Old Reddit
+// @name               Reddit - Old Design Redirection
 // @version            1.0
 // @description        Always redirects to old-Reddit to avoid Reddit's redesign
 // @icon               https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-76x76.png
