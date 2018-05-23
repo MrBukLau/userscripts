@@ -1,6 +1,6 @@
 // ==UserScript==
 // @id                 baidupan@ywzhaiqi@gmail.com
-// @name               Baidu Pan Download Helper
+// @name               Baidu Pan - Download Helper
 // @version            3.7.9
 // @namespace          https://github.com/ywzhaiqi
 // @author             ywzhaiqi
