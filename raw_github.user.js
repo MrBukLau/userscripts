@@ -3,7 +3,7 @@
 // @version            0.1
 // @description        Adds a favicon to Raw Github
 // @icon               https://github.com/fluidicon.png
-// @include            *raw.githubusercontent.com*
+// @include            *raw.githubusercontent.com/*
 // @author             Buk Lau
 // @grant              none
 // ==/UserScript==
