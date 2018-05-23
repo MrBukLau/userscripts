@@ -1,9 +1,7 @@
-# Tampermonkey-Userscripts
+# Tampermonkey-Userscripts [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MrBukLau/Tampermonkey-Userscripts/blob/master/LICENSE)
 These javascripts will make websites look and function better.
 
 Click on the links below to add them to [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo).
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MrBukLau/Tampermonkey-Userscripts/blob/master/LICENSE)
 
 ## Available Favicons
 * [MyHealthConnection Favicon](https://github.com/MrBukLau/Tampermonkey-Userscripts/raw/master/myhealthconnection_favicon.user.js)
