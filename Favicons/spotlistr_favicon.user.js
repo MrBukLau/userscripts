@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Spotlistr Favicon
+// @name               Spotlistr - Favicon
 // @version            0.1
 // @description        Adds a favicon to Spotlistr
 // @icon               https://raw.githubusercontent.com/MrBukLau/Tampermonkey-Userscripts/master/Favicons/Images/Spotlistr%20Favicon.png
