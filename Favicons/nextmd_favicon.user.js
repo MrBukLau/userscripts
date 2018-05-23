@@ -2,7 +2,7 @@
 // @name               NextMD Favicon
 // @version            0.1
 // @description        Adds a favicon to NextMD
-// @icon               https://github.com/MrBukLau/Tampermonkey-Scripts/blob/master/Favicons/NextMD%20Favicon.png?raw=true
+// @icon               https://raw.githubusercontent.com/MrBukLau/Tampermonkey-Userscripts/master/Favicons/Images/NextMD%20Favicon.png
 // @include            *nextmd.com/ud2/*
 // @author             Buk Lau
 // @grant              none
@@ -10,7 +10,7 @@
 
 var favicon_link_html = document.createElement('link');
 favicon_link_html.rel = 'icon';
-favicon_link_html.href = 'https://github.com/MrBukLau/Tampermonkey-Scripts/blob/master/Favicons/NextMD%20Favicon.png?raw=true';
+favicon_link_html.href = 'https://raw.githubusercontent.com/MrBukLau/Tampermonkey-Userscripts/master/Favicons/Images/NextMD%20Favicon.png';
 favicon_link_html.type = 'image/png';
 
 try {
