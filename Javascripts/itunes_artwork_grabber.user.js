@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               iTunes Artwork Grabber
+// @name               iTunes - Artwork Grabber
 // @version            1.0.8
 // @description        Gets high-resolution artwork for apps, music, books, movies, TV shows, podcasts, and more
 // @icon               https://www.shareicon.net/download/2016/08/01/639906_apple.svg
