@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Stop Reddit from Tracking
+// @name               Reddit - Stop Tracking Outbound Links
 // @version            1.0
 // @description        Replaces data-outbound-url with data-href-url
 // @icon               https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-76x76.png
