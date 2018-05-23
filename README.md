@@ -3,6 +3,8 @@ These javascripts will make websites look and function better.
 
 Click on the links below to add them to [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MrBukLau/Tampermonkey-Scripts/blob/master/LICENSE)
+
 ## Available Favicons
 * [MyHealthConnection Favicon](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/myhealthconnection_favicon.user.js)
 * [myPSU Favicon](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/mypsu_favicon.user.js)
@@ -16,3 +18,6 @@ Click on the links below to add them to [Tampermonkey](https://chrome.google.com
 * [iTunes Artwork Grabber](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/itunes_artwork_grabber.user.js)
 * [Stop Reddit from Tracking](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/stop_reddit_from_tracking.user.js)
 * [YouTube - Always Theater Mode](https://github.com/MrBukLau/Tampermonkey-Scripts/raw/master/youtube_always_theater_mode.user.js)
+
+## License
+[MIT](https://github.com/MrBukLau/Tampermonkey-Scripts/blob/master/LICENSE)
