@@ -4,10 +4,10 @@ These javascripts will make websites look and function better.
 Click on the links below to add them to [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 
 ## Available Favicons
-* [MyHealthConnection Favicon](https://github.com/MrBukLau/Tampermonkey-Userscripts/Favicons/raw/master/myhealthconnection_favicon.user.js)
-* [myPSU Favicon](https://github.com/MrBukLau/Tampermonkey-Userscripts/Favicons/raw/master/mypsu_favicon.user.js)
-* [NextMD Favicon](https://github.com/MrBukLau/Tampermonkey-Userscripts/Favicons/raw/master/nextmd_favicon.user.js)
-* [Spotlistr Favicon](https://github.com/MrBukLau/Tampermonkey-Userscripts/Favicons/raw/master/spotlistr_favicon.user.js)
+* [MyHealthConnection Favicon](https://github.com/MrBukLau/Tampermonkey-Userscripts/raw/master/Favicons/myhealthconnection_favicon.user.js)
+* [myPSU Favicon](https://github.com/MrBukLau/Tampermonkey-Userscripts/raw/master/Favicons/mypsu_favicon.user.js)
+* [NextMD Favicon](https://github.com/MrBukLau/Tampermonkey-Userscripts/raw/master/Favicons/nextmd_favicon.user.js)
+* [Spotlistr Favicon](https://github.com/MrBukLau/Tampermonkey-Userscripts/raw/master/Favicons/spotlistr_favicon.user.js)
 
 ## Available Javascripts
 * [Baidu Pan Download Helper](https://github.com/MrBukLau/Tampermonkey-Userscripts/raw/master/baidu_pan_download_helper.user.js)
