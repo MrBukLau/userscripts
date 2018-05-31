@@ -12,8 +12,9 @@ Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/
 ### Owned by Google
 * [Gmail - Hide Email Address from Title Bar](https://github.com/MrBukLau/tampermonkey-userscripts/raw/master/javascripts/hide_gmail.user.js)
 * [YouTube - Always Theater Mode](https://github.com/MrBukLau/tampermonkey-userscripts/raw/master/javascripts/youtube_always_theater_mode.user.js)
-### Resources
+### Music
 * [iTunes - Artwork Grabber](https://github.com/MrBukLau/tampermonkey-userscripts/raw/master/javascripts/itunes_artwork_grabber.user.js)
+* [Spotify - Help uBlock Origin Skip Ads](https://github.com/MrBukLau/tampermonkey-userscripts/raw/master/javascripts/spotify_skip_ads.user.js)
 ### Social
 * [Baidu Pan - Download Helper](https://github.com/MrBukLau/tampermonkey-userscripts/raw/master/javascripts/baidu_pan_download_helper.user.js)
 * [Reddit - Old Design Redirection](https://github.com/MrBukLau/tampermonkey-userscripts/raw/master/javascripts/reddit_old_design_redirection.user.js)
