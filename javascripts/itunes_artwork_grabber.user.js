@@ -2,7 +2,7 @@
 // @name               iTunes - Artwork Grabber
 // @version            1.0.8
 // @description        Gets high-resolution artwork for apps, music, books, movies, TV shows, podcasts, and more
-// @icon               https://www.shareicon.net/download/2016/08/01/639906_apple.svg
+// @icon               https://upload.wikimedia.org/wikipedia/commons/2/2a/ITunes_12.2_logo.png
 // @include            *://itunes.apple.com/*/*
 // @homepage           https://sparanoid.com/work/itunes-artwork-grabber/
 // @author             Tunghsiao Liu
