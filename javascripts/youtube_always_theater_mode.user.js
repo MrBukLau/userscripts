@@ -2,7 +2,7 @@
 // @name               YouTube - Always Theater Mode
 // @version            1.0
 // @description        Set the default viewing mode to Theater Mode.
-// @icon               https://s.ytimg.com/yts/img/favicon_144-vfliLAfaB.png
+// @icon               https://www.google.com/s2/favicons?domain=www.youtube.com
 // @include            https://www.youtube.com/*
 // @homepage           https://greasyfork.org/en/scripts/368003-youtube-always-theater-mode
 // @author             Volkan K.
