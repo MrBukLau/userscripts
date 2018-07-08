@@ -2,7 +2,7 @@
 // @name               Reddit - Old Design Redirection
 // @version            1.0
 // @description        Always redirects to old-Reddit to avoid Reddit's redesign
-// @icon               https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-76x76.png
+// @icon               https://www.google.com/s2/favicons?domain=www.reddit.com
 // @include            *://www.reddit.com/*
 // @homepage           https://greasyfork.org/en/scripts/44669-bring-back-old-reddit
 // @author             RandomUsername404
