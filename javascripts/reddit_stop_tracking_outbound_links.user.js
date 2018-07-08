@@ -2,7 +2,7 @@
 // @name               Reddit - Stop Tracking Outbound Links
 // @version            1.0
 // @description        Replaces data-outbound-url with data-href-url
-// @icon               https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-76x76.png
+// @icon               https://www.google.com/s2/favicons?domain=www.reddit.com
 // @match              *://*.reddit.com/*
 // @homepage           https://old.reddit.com/r/privacy/comments/4aqdg0/reddit_started_tracking_the_links_we_click_heres/
 // @author             OperaSona
