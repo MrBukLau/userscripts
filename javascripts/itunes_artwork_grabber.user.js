@@ -29,7 +29,7 @@ window.addEventListener('load', function() {
   // Try a large enough size for artwork due to there's no way to get the
   // actual largest size available through the web page.
   var isNewLayout = false;
-  var artworkSize = '1400x1400';
+  var artworkSize = '2000x2000';
   var artworkFormat = '.jpeg';
   var artworkWrap = document.querySelectorAll('#left-stack div.lockup.product')[0];
   var artworkRegex = /(\/)(\d+(?:-\dx|x\d+)?([a-zA-Z]+))(\.[a-zA-Z]+)$/gim; // https://regex101.com/r/mG3hX6/6
