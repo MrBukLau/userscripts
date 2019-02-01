@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name               MyHealthConnection - Favicon
-// @version            0.1
+// @version            1.0
 // @description        Adds a favicon to MyHealthConnection
 // @icon               https://www.google.com/s2/favicons?domain=orclinic.com
 // @include            *secure.orclinic.com*
