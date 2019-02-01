@@ -1,19 +1,16 @@
 // ==UserScript==
 // @name               Reddit - Stop Tracking Outbound Links
 // @version            1.0
-// @description        Replaces data-outbound-url with data-href-url
+// @description        Stops Reddit from tracking when clicking on outbound links
 // @icon               https://www.google.com/s2/favicons?domain=www.reddit.com
-// @match              *://*.reddit.com/*
-// @homepage           https://old.reddit.com/r/privacy/comments/4aqdg0/reddit_started_tracking_the_links_we_click_heres/
-// @author             OperaSona
+// @match              *reddit.com*
+// @homepage           https://old.reddit.com/r/TheoryOfReddit/comments/4aqd1y/just_noticed_reddit_is_redirecting_outgoing_links/d12qh4d/?st=jrls658b&sh=1a8d388f
+// @author             Capitao_Falcao
 // @modifier           Buk Lau
-// @grant              none
 // ==/UserScript==
 
-var a_col = document.getElementsByTagName('a');
-var a, actual_fucking_url;
-for(var i = 0; i < a_col.length; i++) {
-  a = a_col[i];
-  actual_fucking_url = a.getAttribute('data-href-url');
-  if(actual_fucking_url) a.setAttribute('data-outbound-url', actual_fucking_url);
-}
+$(document).ready(function(){
+    $('p.title a.outbound').each(function(index,element){
+        $(this).attr('data-outbound-url', $(this).attr('href'));
+    });
+});
