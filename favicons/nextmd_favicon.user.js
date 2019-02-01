@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name               NextMD - Favicon
-// @version            0.1
+// @version            1.0
 // @description        Adds a favicon to NextMD
 // @icon               https://raw.githubusercontent.com/MrBukLau/tampermonkey-userscripts/master/favicons/images/NextMD%20Favicon.png
 // @include            *nextmd.com/ud2/*
