@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name               myPSU - Favicon
-// @version            0.1
+// @version            1.0
 // @description        Adds a favicon to myPSU
 // @icon               https://www.google.com/s2/favicons?domain=pdx.edu
 // @include            *my.pdx.edu*
