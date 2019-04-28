@@ -7,7 +7,6 @@
 // @homepage           https://greasyfork.org/en/scripts/10523-youtube-always-theater-mode
 // @author             r-a-y
 // @modifier           Buk Lau
-// @license            GPL v3
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
