@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name               iTunes - Artwork Grabber
+// @name               Apple Music / iTunes - Artwork Grabber
 // @version            1.0.8
 // @description        Gets high-resolution artwork for apps, music, books, movies, TV shows, podcasts, and more
-// @icon               https://www.google.com/s2/favicons?domain=itunes.apple.com
+// @icon               https://www.apple.com/favicon.ico
 // @include            *://itunes.apple.com/*/*
 // @include            *://music.apple.com/*/*
 // @homepage           https://sparanoid.com/work/itunes-artwork-grabber/
