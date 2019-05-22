@@ -4,6 +4,7 @@
 // @description        Gets high-resolution artwork for apps, music, books, movies, TV shows, podcasts, and more
 // @icon               https://www.google.com/s2/favicons?domain=itunes.apple.com
 // @include            *://itunes.apple.com/*/*
+// @include            *://music.apple.com/*/*
 // @homepage           https://sparanoid.com/work/itunes-artwork-grabber/
 // @author             Tunghsiao Liu
 // @modifier           Buk Lau
