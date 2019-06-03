@@ -6,6 +6,7 @@
 // @include            *://apps.apple.com/*/*
 // @include            *://books.apple.com/*/*
 // @include            *://itunes.apple.com/*/*
+// @include            *://movies.apple.com/*/*
 // @include            *://music.apple.com/*/*
 // @include            *://podcasts.apple.com/*/*
 // @include            *://tv.apple.com/*/*
