@@ -1,16 +1,20 @@
 // ==UserScript==
 // @name               Template - Favicon
 // @version            1.0
-// @description        Adds a favicon to "Website's Name"
-// @icon               "URL of an Icon"
-// @include            "URL of Website That Needs a Favicon"
+// @description        Adds a favicon to "the website's name"
+// @icon               "Type a URL that is the website's icon"
+// @include            "Type the website's URL that needs a favicon"
 // @author             Buk Lau
 // @grant              none
 // ==/UserScript==
 
 var favicon_link_html = document.createElement('link');
 favicon_link_html.rel = 'icon';
-favicon_link_html.href = 'URL of the Favicon';
+
+// Insert the favicon's URL in between the apostrophes
+favicon_link_html.href = ' ';
+
+// Change "png" if the image file format is different
 favicon_link_html.type = 'image/png';
 
 try {
