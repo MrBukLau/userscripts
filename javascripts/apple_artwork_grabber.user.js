@@ -1,10 +1,14 @@
 // ==UserScript==
-// @name               Apple Music / iTunes - Artwork Grabber
+// @name               Apple - Artwork Grabber
 // @version            1.0.8
 // @description        Gets high-resolution artwork for apps, music, books, movies, TV shows, podcasts, and more
 // @icon               https://www.apple.com/favicon.ico
+// @include            *://apps.apple.com/*/*
+// @include            *://books.apple.com/*/*
 // @include            *://itunes.apple.com/*/*
 // @include            *://music.apple.com/*/*
+// @include            *://podcasts.apple.com/*/*
+// @include            *://tv.apple.com/*/*
 // @homepage           https://sparanoid.com/work/itunes-artwork-grabber/
 // @author             Tunghsiao Liu
 // @modifier           Buk Lau
