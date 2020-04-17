@@ -6,7 +6,7 @@
 // @include            *://www.reddit.com/*
 // @homepage           https://greasyfork.org/en/scripts/44669-bring-back-old-reddit
 // @author             RandomUsername404
-// @modifier           Buk Lau
+// @modifier           MrBukLau
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
