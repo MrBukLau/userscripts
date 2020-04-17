@@ -6,7 +6,7 @@
 // @match              *reddit.com*
 // @homepage           https://old.reddit.com/r/TheoryOfReddit/comments/4aqd1y/just_noticed_reddit_is_redirecting_outgoing_links/d12qh4d/?st=jrls658b&sh=1a8d388f
 // @author             Capitao_Falcao
-// @modifier           Buk Lau
+// @modifier           MrBukLau
 // ==/UserScript==
 
 $(document).ready(function(){
