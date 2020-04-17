@@ -12,7 +12,7 @@
 // @include            *://tv.apple.com/*/*
 // @homepage           https://sparanoid.com/work/itunes-artwork-grabber/
 // @author             Tunghsiao Liu
-// @modifier           Buk Lau
+// @modifier           MrBukLau
 // @grant              none
 // @run-at             document-end
 // ==/UserScript==
