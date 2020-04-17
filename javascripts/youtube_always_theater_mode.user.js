@@ -6,7 +6,7 @@
 // @include            https://www.youtube.com/*
 // @homepage           https://greasyfork.org/en/scripts/10523-youtube-always-theater-mode
 // @author             r-a-y
-// @modifier           Buk Lau
+// @modifier           MrBukLau
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
