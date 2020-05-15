@@ -2,7 +2,7 @@
 // @name               Apple Music - Artwork Grabber
 // @version            1.0
 // @description        Changes the image resolution and format for an artwork from Apple Music
-// @icon               https://music.apple.com/assets/favicon/favicon-180-eb957907435b0f6386bf2367d57d75f6.png
+// @icon               https://music.apple.com/assets/favicon/favicon-180-0a398ebcafe9ddd5517bb45c1c392e09.png
 // @include            *mzstatic.com/image/thumb/Music*
 // @homepage           https://sleazyfork.org/en/forum/discussion/9158/replace-string-in-an-url
 // @author             Vivre
