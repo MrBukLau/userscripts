@@ -11,6 +11,6 @@
 // @run-at             document-start
 // ==/UserScript==
 
-if (location.href.match("1000x1000bb-60.jpg")) {
-	location.href = location.href.replace("1000x1000bb-60.jpg", "2000x2000.jpeg");
+if (location.href.match("1000x1000bb.webp")) {
+	location.href = location.href.replace("1000x1000bb.webp", "2000x2000.jpeg");
 }
