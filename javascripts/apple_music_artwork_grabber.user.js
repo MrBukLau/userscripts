@@ -14,3 +14,7 @@
 if (location.href.match("1000x1000bb.webp")) {
 	location.href = location.href.replace("1000x1000bb.webp", "2000x2000.jpeg");
 }
+
+if (location.href.match("600x600bb.webp")) {
+	location.href = location.href.replace("600x600bb.webp", "2000x2000.jpeg");
+}
