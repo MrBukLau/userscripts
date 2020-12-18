@@ -4,7 +4,7 @@
 // @description        Adds a favicon to "the website's name"
 // @icon               "Type a URL that is the website's icon"
 // @include            "Type the website's URL that needs a favicon"
-// @author             Buk Lau
+// @author             MrBukLau
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
