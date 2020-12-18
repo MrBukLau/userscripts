@@ -8,6 +8,7 @@
 // @author             MrBukLau
 // @license            BSD-3-Clause
 // @grant              none
+// @run-at             document-start
 // ==/UserScript==
 
 function cleanTitle(){
