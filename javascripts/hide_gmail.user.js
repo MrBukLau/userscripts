@@ -6,7 +6,6 @@
 // @include            https://mail.google.com/*
 // @homepage           https://greasyfork.org/en/scripts/38152-hide-email-address-from-title-bar
 // @author             MrBukLau
-// @license            BSD-3-Clause
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
