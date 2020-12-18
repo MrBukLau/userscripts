@@ -6,6 +6,7 @@
 // @include            "Type the website's URL that needs a favicon"
 // @author             Buk Lau
 // @grant              none
+// @run-at             document-start
 // ==/UserScript==
 
 var favicon_link_html = document.createElement('link');
