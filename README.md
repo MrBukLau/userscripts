@@ -6,7 +6,7 @@ Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/
 
 ## Available Userscripts
 ### Apple
-* [Apple Music - Artwork Grabber](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_artwork_grabber.user.js)
+* [Apple Music - Artwork Changer](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_artwork_changer.user.js)
 ### Google
 * [Gmail - Hide Email Address from Title Bar](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/gmail_hide_email_address_from_title_bar.user.js)
 * [YouTube - Always Theater Mode](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/youtube_always_theater_mode.user.js)
