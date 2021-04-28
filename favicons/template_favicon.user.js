@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name               Template - Favicon
 // @version            1.0
-// @description        Adds a favicon to "the website's name"
+// @description        Add a favicon to "the website's name"
 // @icon               "Type a URL that is the website's icon"
 // @include            "Type the website's URL that needs a favicon"
 // @author             MrBukLau
