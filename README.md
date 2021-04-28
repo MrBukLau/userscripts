@@ -8,7 +8,7 @@ Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/
 ### Apple
 * [Apple Music - Artwork Grabber](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_artwork_grabber.user.js)
 ### Google
-* [Gmail - Hide Email Address from Title Bar](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/hide_gmail.user.js)
+* [Gmail - Hide Email Address from Title Bar](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/gmail_hide_email_address_from_title_bar.user.js)
 * [YouTube - Always Theater Mode](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/youtube_always_theater_mode.user.js)
 ### Kwik
 * [Kwik - Watermark Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/kwik_watermark_removal.user.js)
