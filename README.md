@@ -2,7 +2,7 @@
 
 This repository contains userscripts that add additional features to certain websites. These userscripts were tested only on [Google Chrome](https://www.google.com/chrome/) using [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) and [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag).
 
-Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/) or [Violentmonkey](https://github.com/violentmonkey/violentmonkey).
+Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
 
 ## Available Userscripts
 ### Apple
