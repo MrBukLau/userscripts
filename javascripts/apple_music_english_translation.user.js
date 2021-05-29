@@ -10,15 +10,13 @@
 // @run-at             document-start
 // ==/UserScript==
 
-var oldUrlSearch  = window.location.search;
+var oldUrlSearch = window.location.search;
 
 if ( ! /\?l=en$/.test (oldUrlSearch) ) {
-
-    var newURL  = window.location.protocol + "//"
-                + window.location.host
-                + window.location.pathname
-                + oldUrlSearch + "?l=en"
-                + window.location.hash
-                ;
+    var newURL = window.location.protocol + "//"
+               + window.location.host
+               + window.location.pathname
+               + oldUrlSearch + "?l=en"
+               + window.location.hash;
     window.location.replace (newURL);
 }
