@@ -12,11 +12,22 @@
 
 var oldUrlSearch = window.location.search;
 
-if ( ! /\?l=en$/.test (oldUrlSearch) ) {
-    var newURL = window.location.protocol + "//"
-               + window.location.host
-               + window.location.pathname
-               + oldUrlSearch + "?l=en"
-               + window.location.hash;
-    window.location.replace (newURL);
+if (window.location.href.indexOf("?i=") > -1) {
+    if (!/\&l=en$/.test(oldUrlSearch)) {
+        var newURL = window.location.protocol + "//" +
+            window.location.host +
+            window.location.pathname +
+            oldUrlSearch + "&l=en" +
+            window.location.hash;
+        window.location.replace(newURL);
+    }
+} else {
+    if (!/\?l=en$/.test(oldUrlSearch)) {
+        var newURL = window.location.protocol + "//" +
+            window.location.host +
+            window.location.pathname +
+            oldUrlSearch + "?l=en" +
+            window.location.hash;
+        window.location.replace(newURL);
+    }
 }
