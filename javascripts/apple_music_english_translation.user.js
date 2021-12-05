@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name               Apple Music - English Translation
 // @version            1.0
-// @description        Translate the words on Apple Music to English (Credit to Brock Adams)
+// @description        Translate the words on Apple Music to English (Special thanks to Brock Adams for the coding tip)
 // @icon               https://music.apple.com/assets/favicon/favicon-180-c132a95549a91ae6983a4914da3e1c44.png
 // @include            *music.apple.com*
 // @homepage           https://stackoverflow.com/questions/16065937/changing-a-pages-url-parameters
