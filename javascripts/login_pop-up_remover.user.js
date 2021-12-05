@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name               Login Pop-up Remover
 // @version            2.2.0
-// @description        Remove the nagging login pop-ups and banners from the mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, and from the mobile version of YouTube (Credit to StephenP for the original userscript)
+// @description        Remove the nagging login pop-ups and banners from the mobile and desktop versions of Facebook, Instagram, Reddit, Twitter, Quora, Ask.fm, VK, and from the mobile version of YouTube (Special thanks to StephenP for the original userscript)
 // @icon               data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAG1BMVEXTrvFOWZTEN4aXQ6vcRGPsbUH2sVjlt7/////5Q3C9AAAAAXRSTlMAQObYZgAAANJJREFUKM+9z7EKwjAQgOFIqbPFpXMUmlHMoKsQsKtgsC9g3WMkWS2V3GN7SZrQwdl/68fdlRBCFtWac74jqYLHsvBUHjiA75lGCm6dMca6BPzg9hSzajPBcQjfbKAJFLXgTJOBqQYMqAx7pnCaDRko060W5xGhwlZk20Y4R6iIaHU3inYG3euGR3UG2b0k/lYg1AABPhLDTQoRbs7D1SYoJcTHCQZvf6PsH+H5GiEcJb0Pd0Q9wdLDXV5PdVyZRF7CYgDMz/6E9xyqdPR/sMiw+gKZRGTvTIJM4gAAAABJRU5ErkJggg==
 // @match              https://*.facebook.com/*
 // @exclude            https://developers.facebook.com/*
