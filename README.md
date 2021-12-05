@@ -5,6 +5,8 @@ This repository contains userscripts that add additional features to certain web
 Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
 
 ## Available Userscripts
+### General Web Browsing
+* [Login Pop-up Remover](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/login_pop-up_remover.user.js)
 ### Apple
 * [Apple Music - Artwork Changer](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_artwork_changer.user.js)
 * [Apple Music - English Translation](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_english_translation.user.js)
@@ -14,7 +16,6 @@ Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/
 ### Kwik
 * [Kwik - Watermark Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/kwik_watermark_removal.user.js)
 ### Reddit
-* [Reddit - Old Design Redirection](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/reddit_old_design_redirection.user.js)
 * [Reddit - Stop Tracking Outbound Links](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/reddit_stop_tracking_outbound_links.user.js)
 
 ## License
