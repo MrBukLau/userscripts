@@ -153,7 +153,7 @@ function checkPageReady(){
         interval_2=setInterval(removePicturePopup,500);
       }
     }
-    else if(document.location.href.includes("reddit.com")){//reddit has a wide range of different login reminders for installing the app or logging in when browsing from a phone
+    /*else if(document.location.href.includes("reddit.com")){//reddit has a wide range of different login reminders for installing the app or logging in when browsing from a phone
       if(document.getElementsByClassName("TopNav__promoButton").length>0){
         var isMobile=true;
         if(document.getElementsByClassName("MobileButton").length==0){
@@ -161,7 +161,7 @@ function checkPageReady(){
         }
       	redditPatch(isMobile);
       }
-    }
+    }*/
     else if(document.location.href.includes("quora.com/")){
       quoraPatchObserver();
     }
@@ -321,7 +321,7 @@ function blockBannerTW(s){
     mutationObserver_0.observe(document.documentElement, {attributes: true});
   }
 }
-function redditPatch(isMobile){
+/*function redditPatch(isMobile){
   const nav=document.getElementsByClassName("NavFrame__below-top-nav")[0];
   const config = { attributes: false, childList: true, subtree: true };
   var firstCheck=true;
@@ -357,7 +357,7 @@ function redditPatch(isMobile){
   };
   const bodyObserver = new MutationObserver(callback);
   bodyObserver.observe(nav, config);
-}
+}*/
 function quoraPatchObserver(){
   var firstCheck=true;
   var searchBox=document.createElement("DIV");
