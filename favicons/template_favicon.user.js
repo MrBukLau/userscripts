@@ -19,6 +19,5 @@ favicon_link_html.href = ' ';
 favicon_link_html.type = 'image/png';
 
 try {
-  document.getElementsByTagName('head')[0].appendChild( favicon_link_html );
-}
-catch(e) { }
+    document.getElementsByTagName('head')[0].appendChild(favicon_link_html);
+} catch (e) {}
