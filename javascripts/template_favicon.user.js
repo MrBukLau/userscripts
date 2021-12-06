@@ -12,8 +12,8 @@
 var favicon_link_html = document.createElement('link');
 favicon_link_html.rel = 'icon';
 
-// Insert the favicon's URL in between the apostrophes
-favicon_link_html.href = ' ';
+// Replace "LINK" with the favicon's URL
+favicon_link_html.href = 'LINK';
 
 // Change "png" if the image file format is different
 favicon_link_html.type = 'image/png';
