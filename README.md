@@ -13,5 +13,13 @@ Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/
 ### Reddit
 * [Reddit - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/reddit_ios_pop_up_removal.user.js)
 
+## Special Thanks
+### For creating the original userscripts
+* [SakamotoDesu on Reddit](https://reddit.com/r/animepiracy/comments/kfdmgg/any_way_to_block_the_kwik_watermark_on_animepahe/gg93qll/)
+* [StephenP on Greasy Fork](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)
+### For providing some coding tips
+* [Brock Adams on Stack Overflow](https://stackoverflow.com/questions/16065937/changing-a-pages-url-parameters)
+* [Vivre on Greasy Fork](https://greasyfork.org/en/discussions/requests/55817-replace-string-in-an-url)
+
 ## License
 [MIT](https://github.com/MrBukLau/userscripts-for-google-chrome/blob/master/LICENSE)
