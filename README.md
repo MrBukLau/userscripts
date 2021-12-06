@@ -8,8 +8,6 @@ Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/
 ### Apple
 * [Apple Music - Artwork Changer](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_artwork_changer.user.js)
 * [Apple Music - English Translation](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_english_translation.user.js)
-### Google
-* [YouTube - Always Theater Mode](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/youtube_always_theater_mode.user.js)
 ### Kwik
 * [Kwik - Watermark Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/kwik_watermark_removal.user.js)
 ### Reddit
