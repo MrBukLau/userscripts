@@ -11,7 +11,5 @@
 // ==/UserScript==
 
 let st = document.createElement("STYLE");
-if (document.location.href.includes("reddit.com")) {
-    st.textContent = ".TopNav__promoButton, .xPromoAppStoreFooter, .XPromoBlockingModal, .xPromoChoiceBanner, .XPromoInFeed, .XPromoPill, .XPromoPopup, shreddit-experience-tree, [data-testid=bottom-cell-wrapper]{display: none !important} .NavFrame {overflow-y: scroll !important} .scroll-disabled {overflow-y: scroll !important; position: static !important} .scroll-is-blocked {overflow-y: scroll !important}";
-}
+st.textContent = ".TopNav__promoButton, .xPromoAppStoreFooter, .XPromoBlockingModal, .xPromoChoiceBanner, .XPromoInFeed, .XPromoPill, .XPromoPopup, shreddit-experience-tree, [data-testid=bottom-cell-wrapper]{display: none !important} .NavFrame {overflow-y: scroll !important} .scroll-disabled {overflow-y: scroll !important; position: static !important} .scroll-is-blocked {overflow-y: scroll !important}";
 document.getElementsByTagName("HEAD")[0].appendChild(st);
