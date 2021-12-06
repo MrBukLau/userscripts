@@ -4,7 +4,7 @@
 // @description        Change the image resolution and format for an artwork on Apple Music
 // @icon               https://music.apple.com/assets/favicon/favicon-180-c132a95549a91ae6983a4914da3e1c44.png
 // @include            *mzstatic.com/image/thumb*
-// @homepage           https://github.com/MrBukLau/userscripts-for-google-chrome
+// @homepage           https://github.com/MrBukLau/userscripts
 // @author             MrBukLau
 // @grant              none
 // @run-at             document-start
