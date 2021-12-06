@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name               Kwik - Watermark Removal
 // @version            1.0
-// @description        Hide the Kwik watermark from videos hosted on Kwik (Special thanks to SakamotoDesu for the original userscript)
+// @description        Hide the Kwik watermark from videos hosted on Kwik (Special thanks to SakamotoDesu for creating the original userscript)
 // @icon               https://kwik.cx/favicon.ico
 // @include            *://kwik.cx/*
 // @homepage           https://old.reddit.com/r/animepiracy/comments/kfdmgg/any_way_to_block_the_kwik_watermark_on_animepahe/gg93qll/
