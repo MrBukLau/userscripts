@@ -12,8 +12,8 @@
 
 // Toggle Theater Mode after YouTube finishes loading a video.
 window.addEventListener("yt-navigate-finish", function(event) {
-	var newPlayer = document.querySelector('button.ytp-size-button');
-	if ( newPlayer && null === document.getElementById('player-theater-container').firstChild ) {
-		newPlayer.click();
-	}
+    var newPlayer = document.querySelector('button.ytp-size-button');
+    if (newPlayer && null === document.getElementById('player-theater-container').firstChild) {
+        newPlayer.click();
+    }
 });
