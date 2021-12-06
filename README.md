@@ -10,6 +10,8 @@ Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/
 * [Apple Music - English Translation](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_english_translation.user.js)
 ### Kwik
 * [Kwik - Watermark Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/kwik_watermark_removal.user.js)
+### Quora
+* [Quora - iOS Login Pop-up Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/quora_ios_login_pop_up_removal.user.js)
 ### Reddit
 * [Reddit - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/reddit_ios_pop_up_removal.user.js)
 
