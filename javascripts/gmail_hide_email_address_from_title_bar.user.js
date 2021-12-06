@@ -10,12 +10,13 @@
 // @run-at             document-start
 // ==/UserScript==
 
-function cleanTitle(){
+function cleanTitle() {
     //console.log('Called cleanTitle');
     if (document.title.indexOf('@') > -1) {
-        var titleparts = document.title.split(' '), titlenew = '';
-        for (var i=0; i<titleparts.length; ++i){
-            if (titleparts[i].indexOf('@') < 0){
+        var titleparts = document.title.split(' '),
+            titlenew = '';
+        for (var i = 0; i < titleparts.length; ++i) {
+            if (titleparts[i].indexOf('@') < 0) {
                 titlenew += titleparts[i] + ' ';
             }
         }
@@ -23,13 +24,14 @@ function cleanTitle(){
         document.title = titlenew;
     }
 }
-function setMutationWatch(){
+
+function setMutationWatch() {
     MutOb = (window.MutationObserver) ? window.MutationObserver : window.WebKitMutationObserver;
-    if (MutOb){
-        chgMon = new MutOb(function(mutationSet){
-            mutationSet.forEach(function(mutation){
-                for (var i=0; i<mutation.addedNodes.length; ++i){
-                    if (mutation.addedNodes[i].nodeType == 1){ // Ignore some common nodes
+    if (MutOb) {
+        chgMon = new MutOb(function(mutationSet) {
+            mutationSet.forEach(function(mutation) {
+                for (var i = 0; i < mutation.addedNodes.length; ++i) {
+                    if (mutation.addedNodes[i].nodeType == 1) { // Ignore some common nodes
                         if ('LINK|META|SCRIPT|STYLE'.indexOf(mutation.addedNodes[i].nodeName) < -1) cleanTitle();
                     } else { // There are rare but critical
                         cleanTitle();
@@ -38,7 +40,12 @@ function setMutationWatch(){
             });
         });
         // attach chgMon to <head>
-        opts = {childList: true, subtree: true, attributes: false, characterData: false};
+        opts = {
+            childList: true,
+            subtree: true,
+            attributes: false,
+            characterData: false
+        };
         chgMon.observe(document.getElementsByTagName('head')[0], opts);
     }
 }
