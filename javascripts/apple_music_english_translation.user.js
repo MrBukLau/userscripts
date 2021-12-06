@@ -4,7 +4,7 @@
 // @description        Translate the words on Apple Music to English
 // @icon               https://music.apple.com/assets/favicon/favicon-180-c132a95549a91ae6983a4914da3e1c44.png
 // @include            *music.apple.com*
-// @homepage           https://github.com/MrBukLau/userscripts-for-google-chrome
+// @homepage           https://github.com/MrBukLau/userscripts
 // @author             MrBukLau
 // @grant              none
 // @run-at             document-start
