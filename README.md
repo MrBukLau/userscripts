@@ -1,19 +1,19 @@
-# Userscripts for Google Chrome <br> [![Language](https://img.shields.io/badge/Language-JavaScript-f1e05a.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MrBukLau/userscripts-for-google-chrome/blob/master/LICENSE)
+# Userscripts <br> [![Language](https://img.shields.io/badge/Language-JavaScript-f1e05a.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MrBukLau/userscripts/blob/master/LICENSE)
 
-This repository contains userscripts that add additional features to certain websites. These userscripts were tested only on [Google Chrome](https://www.google.com/chrome/) using [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) and [Violentmonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag).
+This repository contains userscripts to improve your web browsing experience on Google Chrome and Safari.
 
-Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/).
-
-## Available Userscripts
+## Available Userscripts for Google Chrome (Desktop)
 ### Apple
-* [Apple Music - Artwork Changer](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_artwork_changer.user.js)
-* [Apple Music - English Translation](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/apple_music_english_translation.user.js)
+* [Apple Music - Artwork Changer](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple_music_artwork_changer.user.js)
+* [Apple Music - English Translation](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple_music_english_translation.user.js)
 ### Kwik
-* [Kwik - Watermark Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/kwik_watermark_removal.user.js)
+* [Kwik - Watermark Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik_watermark_removal.user.js)
+
+## Available Userscripts for Safari (iOS)
 ### Quora
-* [Quora - iOS Login Pop-up Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/quora_ios_login_pop_up_removal.user.js)
+* [Quora - iOS Login Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/quora_ios_login_pop_up_removal.user.js)
 ### Reddit
-* [Reddit - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts-for-google-chrome/raw/master/javascripts/reddit_ios_pop_up_removal.user.js)
+* [Reddit - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit_ios_pop_up_removal.user.js)
 
 ## Special Thanks
 ### For creating the original userscripts
@@ -24,4 +24,4 @@ Click on the links below to add them to [Tampermonkey](https://tampermonkey.net/
 * [Vivre on Greasy Fork](https://greasyfork.org/en/discussions/requests/55817-replace-string-in-an-url)
 
 ## License
-[MIT](https://github.com/MrBukLau/userscripts-for-google-chrome/blob/master/LICENSE)
+[MIT](https://github.com/MrBukLau/userscripts/blob/master/LICENSE)
