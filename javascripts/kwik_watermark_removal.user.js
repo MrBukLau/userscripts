@@ -4,7 +4,7 @@
 // @description        Hide the Kwik watermark from videos hosted on Kwik
 // @icon               https://kwik.cx/favicon.ico
 // @include            *://kwik.cx/*
-// @homepage           https://github.com/MrBukLau/userscripts-for-google-chrome
+// @homepage           https://github.com/MrBukLau/userscripts
 // @author             MrBukLau
 // @grant              none
 // @run-at             document-start
