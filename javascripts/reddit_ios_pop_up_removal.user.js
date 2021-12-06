@@ -15,4 +15,3 @@ if (document.location.href.includes("reddit.com")) {
     st.textContent = ".TopNav__promoButton, .XPromoAppStoreFooter, .XPromoBlockingModal, .XPromoChoiceBanner, .XPromoInFeed, .XPromoPill, .XPromoPopup, shreddit-experience-tree, [data-testid=bottom-cell-wrapper]{display: none !important} .NavFrame {overflow-y: scroll !important} .scroll-disabled {overflow-y: scroll !important; position: static !important} .scroll-is-blocked {overflow-y: scroll !important}";
 }
 document.getElementsByTagName("HEAD")[0].appendChild(st);
-}
