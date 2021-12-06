@@ -10,8 +10,8 @@
 // @run-at             document-start
 // ==/UserScript==
 
-$(document).ready(function(){
-    $('p.title a.outbound').each(function(index,element){
+$(document).ready(function() {
+    $('p.title a.outbound').each(function(index, element) {
         $(this).attr('data-outbound-url', $(this).attr('href'));
     });
 });
