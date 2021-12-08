@@ -10,6 +10,8 @@ This repository contains userscripts to improve your web browsing experience on 
 * [Kwik - Watermark Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik_watermark_removal.user.js)
 
 ## Available Userscripts for Safari (iOS)
+### General Web Browsing
+* [Smart App Banners Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart_app_banners_removal.user.js)
 ### Quora
 * [Quora - iOS Login Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/quora_ios_login_pop_up_removal.user.js)
 ### Reddit
@@ -21,6 +23,8 @@ This repository contains userscripts to improve your web browsing experience on 
 * [StephenP on Greasy Fork](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)
 ### For providing some coding tips
 * [Brock Adams on Stack Overflow](https://stackoverflow.com/questions/16065937/changing-a-pages-url-parameters)
+* [Maheer Ali on Stack Overflow](https://stackoverflow.com/questions/55890434/how-can-i-to-remove-meta-tag-using-javascript)
+* [Richard Plester on Stack Overflow](https://stackoverflow.com/questions/15475404/include-all-pages-in-tampermonkeyuserscript)
 * [Vivre on Greasy Fork](https://greasyfork.org/en/discussions/requests/55817-replace-string-in-an-url)
 
 ## License
