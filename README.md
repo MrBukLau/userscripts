@@ -12,9 +12,10 @@ This repository contains userscripts to improve your web browsing experience on 
 ## Available Userscripts for Safari (iOS)
 ### General Web Browsing
 * [Smart App Banners Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart_app_banners_removal.user.js)
-### Quora
+### Pop-up Removal
+* [9GAG - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag_ios_pop_up_removal.user.js)
+* [iFunny - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/ifunny_ios_pop_up_removal.user.js)
 * [Quora - iOS Login Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/quora_ios_login_pop_up_removal.user.js)
-### Reddit
 * [Reddit - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit_ios_pop_up_removal.user.js)
 
 ## Special Thanks
