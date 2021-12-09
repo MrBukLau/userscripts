@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Quora - iOS Login Pop-up Removal
+// @name               Quora - Pop-up Remover for iOS
 // @version            1.0
 // @description        Remove the login pop-ups from the iOS version of Quora on Safari
 // @icon               https://qsf.fs.quoracdn.net/-4-images.favicon-new.ico-26-07ecf7cd341b6919.ico
