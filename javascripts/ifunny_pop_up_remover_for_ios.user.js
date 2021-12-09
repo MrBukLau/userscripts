@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               iFunny - iOS Pop-up Removal
+// @name               iFunny - Pop-up Remover for iOS
 // @version            1.0
 // @description        Remove the pop-ups and banners from the iOS version of iFunny on Safari
 // @icon               https://ifunny.co/favicon.ico
