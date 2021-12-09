@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name               Reddit - Pop-up and Annoyances Remover for iOS
 // @version            1.0
-// @description        Remove pop-ups, banners, and other annoyances from the iOS version of Reddit on Safari
+// @description        Remove pop-ups, banners, and other annoyances from Reddit on Safari for iOS
 // @icon               https://www.reddit.com/favicon.ico
 // @match              https://www.reddit.com/*
 // @homepage           https://github.com/MrBukLau/userscripts
