@@ -7,16 +7,17 @@ This repository contains userscripts to improve your web browsing experience on 
 * [Apple Music - Artwork Changer](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple_music_artwork_changer.user.js)
 * [Apple Music - English Translation](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple_music_english_translation.user.js)
 ### Kwik
-* [Kwik - Watermark Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik_watermark_removal.user.js)
+* [Kwik - Watermark Remover](https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik_watermark_remover.user.js)
 
 ## Available Userscripts for Safari (iOS)
 ### General Web Browsing
-* [Smart App Banners Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart_app_banners_removal.user.js)
+* [Smart App Banners Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart_app_banners_remover_for_ios.user.js)
 ### Pop-up Removal
-* [9GAG - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag_ios_pop_up_removal.user.js)
-* [iFunny - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/ifunny_ios_pop_up_removal.user.js)
-* [Quora - iOS Login Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/quora_ios_login_pop_up_removal.user.js)
-* [Reddit - iOS Pop-up Removal](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit_ios_pop_up_removal.user.js)
+* [9GAG - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag_pop_up_remover_for_ios.user.js)
+* [iFunny - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/ifunny_pop_up_remover_for_ios.user.js)
+* [Quora - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/quora_pop_up_remover_for_ios.user.js)
+* [Reddit - Pop-up and Annoyances Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit_pop_up_and_annoyances_remover_for_ios.user.js)
+* [Reddit - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit_pop_up_remover_for_ios.user.js)
 
 ## Special Thanks
 ### For creating the original userscripts
