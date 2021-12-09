@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Smart App Banners Removal
+// @name               Smart App Banners Remover for iOS
 // @version            1.0
 // @description        Remove Smart App Banners from mobile websites on the iOS version of Safari
 // @icon               https://developer.apple.com/favicon.ico
