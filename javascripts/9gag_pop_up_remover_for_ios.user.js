@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name               9GAG - iOS Pop-up Removal
+// @name               9GAG - Pop-up Remover for iOS
 // @version            1.0
-// @description        Remove the pop-ups and banners from the iOS version of 9GAG on Safari
+// @description        Remove pop-ups and banners from the iOS version of 9GAG on Safari
 // @icon               https://9gag.com/favicon.ico
 // @match              https://9gag.com/*
 // @homepage           https://github.com/MrBukLau/userscripts
