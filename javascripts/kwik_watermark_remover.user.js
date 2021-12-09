@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Kwik - Watermark Removal
+// @name               Kwik - Watermark Remover
 // @version            1.0
 // @description        Hide the Kwik watermark from videos hosted on Kwik
 // @icon               https://kwik.cx/favicon.ico
