@@ -13,6 +13,6 @@
 (function() {
     var css = document.createElement("style");
     css.setAttribute('type', 'text/css');
-    css.innerText = '.plyr.plyr--paused::after,.plyr.plyr--playing::after{opacity:0 !important}';
+    css.innerText = '.plyr.plyr--paused::after, .plyr.plyr--playing::after {opacity: 0 !important}';
     document.head.appendChild(css);
 })();
