@@ -4,7 +4,7 @@
 // @description        Refresh the page to remove the login pop-ups from Quora on Safari for iOS
 // @author             MrBukLau
 // @homepage           https://github.com/MrBukLau/userscripts
-// @icon               https://qsf.fs.quoracdn.net/-4-images.favicon-new.ico-26-07ecf7cd341b6919.ico
+// @icon               https://www.quora.com/favicon.ico
 // @match              https://*.quora.com/*
 // @grant              none
 // @run-at             document-start
