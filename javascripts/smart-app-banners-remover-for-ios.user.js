@@ -4,7 +4,7 @@
 // @description        Remove Smart App Banners from mobile websites on Safari for iOS
 // @author             MrBukLau
 // @homepage           https://github.com/MrBukLau/userscripts
-// @icon               https://developer.apple.com/favicon.ico
+// @icon               https://www.apple.com/favicon.ico
 // @match              *://*/*
 // @grant              none
 // @run-at             document-start
