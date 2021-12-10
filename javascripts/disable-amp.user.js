@@ -2,6 +2,8 @@
 // @name               Disable AMP
 // @version            1.0
 // @description        Disable AMP on the search results page of Google
+// @author             MrBukLau
+// @homepage           https://github.com/MrBukLau/userscripts
 // @icon               https://amp.dev/static/img/favicon.png
 // @include            https://www.google.*/*
 // @include            https://yandex.*/*
@@ -15,8 +17,6 @@
 // @include            https://*/*&amp=1*
 // @exclude            https://amp.dev/*
 // @exclude            https://www.orfonline.org/*
-// @homepage           https://github.com/MrBukLau/userscripts
-// @author             MrBukLau
 // @grant              none
 // @run-at             document-end
 // ==/UserScript==
