@@ -4,7 +4,7 @@ This repository contains userscripts to improve your web browsing experience on 
 
 ## Available Userscripts for Google Chrome (Desktop)
 ### Apple
-* [Apple Music - Artwork Changer](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-artwork-changer.user.js)
+* [Apple Music - Album Artwork Resizer](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-album-artwork-resizer.user.js)
 * [Apple Music - English Translation](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-english-translation.user.js)
 ### Kwik
 * [Kwik - Watermark Remover](https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik-watermark-remover.user.js)
