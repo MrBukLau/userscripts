@@ -2,10 +2,10 @@
 // @name               Reddit - Pop-up Remover for iOS
 // @version            1.0
 // @description        Remove pop-ups and banners from Reddit on Safari for iOS
+// @author             MrBukLau
+// @homepage           https://github.com/MrBukLau/userscripts
 // @icon               https://www.reddit.com/favicon.ico
 // @match              https://www.reddit.com/*
-// @homepage           https://github.com/MrBukLau/userscripts
-// @author             MrBukLau
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
