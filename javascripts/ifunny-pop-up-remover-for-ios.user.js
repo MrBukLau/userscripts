@@ -4,6 +4,8 @@
 // @description        Remove pop-ups and banners from iFunny on Safari for iOS
 // @author             MrBukLau
 // @homepage           https://github.com/MrBukLau/userscripts
+// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/ifunny-pop-up-remover-for-ios.user.js
+// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/ifunny-pop-up-remover-for-ios.user.js
 // @icon               https://ifunny.co/favicon.ico
 // @match              https://ifunny.co/*
 // @grant              none
