@@ -4,6 +4,8 @@
 // @description        Remove pop-ups and banners from Reddit on Safari for iOS
 // @author             MrBukLau
 // @homepage           https://github.com/MrBukLau/userscripts
+// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-pop-up-remover-for-ios.user.js
+// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-pop-up-remover-for-ios.user.js
 // @icon               https://www.reddit.com/favicon.ico
 // @match              https://www.reddit.com/*
 // @grant              none
@@ -11,5 +13,5 @@
 // ==/UserScript==
 
 let st = document.createElement("STYLE");
-st.textContent = ".TopNav__promoButton, .xPromoAppStoreFooter, .XPromoBlockingModal, .xPromoChoiceBanner, .XPromoInFeed, .XPromoPill, .XPromoPopup, [data-testid = bottom-cell-wrapper], shreddit-experience-tree, xpromo-untagged-content-blocking-modal {display: none !important} .scroll-disabled {overflow-y: scroll !important; position: static !important} .NavFrame, .scroll-is-blocked {overflow-y: scroll !important}";
+st.textContent = ".xPromoAppStoreFooter, .XPromoBlockingModal, .xPromoChoiceBanner, .XPromoInFeed, .XPromoPill, .XPromoPopup, [data-testid = bottom-cell-wrapper], shreddit-experience-tree, xpromo-untagged-content-blocking-modal {display: none !important} .scroll-disabled {overflow-y: scroll !important; position: static !important} .NavFrame, .scroll-is-blocked {overflow-y: scroll !important}";
 document.getElementsByTagName("HEAD")[0].appendChild(st);
