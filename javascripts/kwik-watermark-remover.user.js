@@ -4,6 +4,8 @@
 // @description        Hide the Kwik watermark from videos hosted on Kwik
 // @author             MrBukLau
 // @homepage           https://github.com/MrBukLau/userscripts
+// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik-watermark-remover.user.js
+// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik-watermark-remover.user.js
 // @icon               https://kwik.cx/favicon.ico
 // @include            *://kwik.cx/*
 // @grant              none
