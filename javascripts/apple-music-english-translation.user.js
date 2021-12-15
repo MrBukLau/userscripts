@@ -4,6 +4,8 @@
 // @description        Translate the words on Apple Music to English
 // @author             MrBukLau
 // @homepage           https://github.com/MrBukLau/userscripts
+// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-english-translation.user.js
+// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-english-translation.user.js
 // @icon               https://music.apple.com/assets/favicon/favicon-180-c132a95549a91ae6983a4914da3e1c44.png
 // @include            *music.apple.com*
 // @grant              none
