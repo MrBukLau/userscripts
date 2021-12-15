@@ -4,6 +4,8 @@
 // @description        Disable AMP on the search results page of Google
 // @author             MrBukLau
 // @homepage           https://github.com/MrBukLau/userscripts
+// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/disable-amp.user.js
+// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/disable-amp.user.js
 // @icon               https://amp.dev/static/img/favicon.png
 // @include            https://www.google.*/*
 // @include            https://yandex.*/*
