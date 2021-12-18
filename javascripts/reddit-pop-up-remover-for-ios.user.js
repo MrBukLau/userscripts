@@ -13,5 +13,5 @@
 // ==/UserScript==
 
 let st = document.createElement("STYLE");
-st.textContent = "#blocking-modal-blur-container {filter: none !important;} .xPromoAppStoreFooter, .XPromoBlockingModal, .xPromoChoiceBanner, .XPromoInFeed, .XPromoPill, .XPromoPopup, [data-testid = bottom-cell-wrapper], shreddit-experience-tree, xpromo-nsfw-blocking-container, xpromo-nsfw-blocking-modal, xpromo-untagged-content-blocking-modal {display: none !important} .scroll-disabled {overflow-y: scroll !important; position: static !important} .NavFrame, .scroll-is-blocked {overflow-y: scroll !important}";
+st.textContent = "#blocking-modal-blur-container, .m-blurred {filter: none !important;} .GetAppFooter, .xPromoAppStoreFooter, .XPromoBlockingModal, .xPromoChoiceBanner, .XPromoInFeed, .XPromoNSFWBlocking__warning, .XPromoNSFWBlockingModal, .XPromoPill, .XPromoPopup, [data-testid = bottom-cell-wrapper], shreddit-experience-tree, xpromo-nsfw-blocking-container, xpromo-nsfw-blocking-modal, xpromo-untagged-content-blocking-modal {display: none !important} .scroll-disabled {overflow-y: scroll !important; position: static !important} .NavFrame, .scroll-is-blocked {overflow-y: scroll !important}";
 document.getElementsByTagName("HEAD")[0].appendChild(st);
