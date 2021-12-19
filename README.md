@@ -17,7 +17,7 @@ This repository contains userscripts to improve your web browsing experience on 
 * [9GAG - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag-pop-up-remover-for-ios.user.js)
 * [iFunny - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/ifunny-pop-up-remover-for-ios.user.js)
 * [Quora - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/quora-pop-up-remover-for-ios.user.js)
-* [Reddit - Pop-up and Annoyances Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-pop-up-and-annoyances-remover-for-ios.user.js)
+* [Reddit - Pop-up and Annoyance Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-pop-up-and-annoyance-remover-for-ios.user.js)
 * [Reddit - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-pop-up-remover-for-ios.user.js)
 
 ## Special Thanks
