@@ -4,7 +4,8 @@
 // @version            1.0
 // @description        Remove pop-ups and banners from 9GAG on Safari for iOS
 // @author             MrBukLau
-// @homepage           https://github.com/MrBukLau/userscripts
+// @homepageURL        https://github.com/MrBukLau/userscripts
+// @supportURL         https://github.com/MrBukLau/userscripts/issues
 // @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag-pop-up-remover-for-ios.user.js
 // @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag-pop-up-remover-for-ios.user.js
 // @icon               https://9gag.com/favicon.ico
