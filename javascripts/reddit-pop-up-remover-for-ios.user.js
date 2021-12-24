@@ -9,7 +9,7 @@
 // @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-pop-up-remover-for-ios.user.js
 // @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-pop-up-remover-for-ios.user.js
 // @icon               https://www.reddit.com/favicon.ico
-// @match              https://www.reddit.com/*
+// @match              *://www.reddit.com/*
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
