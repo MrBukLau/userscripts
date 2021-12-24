@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name               iFunny - Pop-up Remover for iOS
+// @namespace          https://github.com/MrBukLau
 // @version            1.0
 // @description        Remove pop-ups and banners from iFunny on Safari for iOS
 // @author             MrBukLau
