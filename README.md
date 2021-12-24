@@ -8,6 +8,8 @@ This repository contains userscripts to improve your web browsing experience on 
 * [Apple Music - English Translation](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-english-translation.user.js)
 ### Kwik
 * [Kwik - Watermark Remover](https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik-watermark-remover.user.js)
+### Reddit
+* [Reddit - Redirect to Libreddit](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-redirect-to-libreddit.user.js)
 
 ## Available Userscripts for Safari (iOS)
 ### General Web Browsing
