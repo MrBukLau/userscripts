@@ -5,8 +5,8 @@
 // @description        Redirect Reddit links to Libreddit (An alternative private front-end to Reddit)
 // @author             MrBukLau
 // @homepage           https://github.com/MrBukLau/userscripts
-// @downloadURL        
-// @updateURL          
+// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-redirect-to-libreddit.user.js
+// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-redirect-to-libreddit.user.js
 // @icon               https://libreddit.spike.codes/favicon.ico
 // @match              *://www.reddit.com/*
 // @grant              none
