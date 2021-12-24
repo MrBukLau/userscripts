@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name               Apple Music - English Translation
+// @namespace          https://github.com/MrBukLau
 // @version            1.0
 // @description        Translate the words on Apple Music to English
 // @author             MrBukLau
