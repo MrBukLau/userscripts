@@ -9,14 +9,12 @@
 // @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik-watermark-remover.user.js
 // @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik-watermark-remover.user.js
 // @icon               https://kwik.cx/favicon.ico
-// @include            *://kwik.cx/*
+// @match              *://kwik.cx/*
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
 
-(function() {
-    var css = document.createElement("style");
-    css.setAttribute('type', 'text/css');
-    css.innerText = '.plyr.plyr--paused::after, .plyr.plyr--playing::after {opacity: 0 !important}';
-    document.head.appendChild(css);
-})();
+var css = document.createElement("style");
+css.setAttribute('type', 'text/css');
+css.innerText = '.plyr.plyr--paused::after, .plyr.plyr--playing::after {opacity: 0 !important}';
+document.head.appendChild(css);
