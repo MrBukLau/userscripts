@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name               9GAG - Pop-up Remover for iOS
+// @namespace          https://github.com/MrBukLau
 // @version            1.0
 // @description        Remove pop-ups and banners from 9GAG on Safari for iOS
 // @author             MrBukLau
