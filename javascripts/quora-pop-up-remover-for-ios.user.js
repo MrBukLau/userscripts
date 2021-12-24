@@ -9,7 +9,7 @@
 // @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/quora-pop-up-remover-for-ios.user.js
 // @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/quora-pop-up-remover-for-ios.user.js
 // @icon               https://www.quora.com/favicon.ico
-// @match              https://*.quora.com/*
+// @match              *://*.quora.com/*
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
