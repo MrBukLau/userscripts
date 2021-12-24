@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name               Disable AMP
+// @namespace          https://github.com/MrBukLau
 // @version            1.0
 // @description        Disable AMP on the search results page of Google
 // @author             MrBukLau
