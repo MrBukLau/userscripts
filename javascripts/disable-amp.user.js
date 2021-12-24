@@ -19,6 +19,7 @@
 // @include            https://*?amp=1*
 // @include            https://*/*&amp*
 // @include            https://*/*&amp=1*
+// @exclude            https://*.ampproject.org/*
 // @exclude            https://amp.dev/*
 // @exclude            https://www.orfonline.org/*
 // @grant              none
