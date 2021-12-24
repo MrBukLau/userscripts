@@ -4,7 +4,8 @@
 // @version            1.0
 // @description        Change the image resolution and format for album artworks on Apple Music
 // @author             MrBukLau
-// @homepage           https://github.com/MrBukLau/userscripts
+// @homepageURL        https://github.com/MrBukLau/userscripts
+// @supportURL         https://github.com/MrBukLau/userscripts/issues
 // @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-album-artwork-resizer.user.js
 // @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-album-artwork-resizer.user.js
 // @icon               https://music.apple.com/assets/favicon/favicon-180-c132a95549a91ae6983a4914da3e1c44.png
