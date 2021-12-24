@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name               Kwik - Watermark Remover
+// @namespace          https://github.com/MrBukLau
 // @version            1.0
 // @description        Hide the Kwik watermark from videos hosted on Kwik
 // @author             MrBukLau
