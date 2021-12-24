@@ -9,7 +9,7 @@ This repository contains userscripts to improve your web browsing experience on 
 ### Kwik
 * [Kwik - Watermark Remover](https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik-watermark-remover.user.js)
 ### Reddit
-* [Reddit - Redirect to Libreddit](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-redirect-to-libreddit.user.js)
+* [Reddit - Libreddit Redirection](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-libreddit-redirection.user.js)
 
 ## Available Userscripts for Safari (iOS)
 ### General Web Browsing
