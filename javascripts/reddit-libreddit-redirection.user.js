@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Reddit - Redirect to Libreddit
+// @name               Reddit - Libreddit Redirection
 // @namespace          https://github.com/MrBukLau
 // @version            1.0
 // @description        Redirect Reddit links to Libreddit (An alternative private front-end to Reddit)
