@@ -9,7 +9,7 @@
 // @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag-pop-up-remover-for-ios.user.js
 // @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag-pop-up-remover-for-ios.user.js
 // @icon               https://9gag.com/favicon.ico
-// @match              https://9gag.com/*
+// @match              *://9gag.com/*
 // @grant              none
 // @run-at             document-start
 // ==/UserScript==
