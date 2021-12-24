@@ -25,6 +25,7 @@ This repository contains userscripts to improve your web browsing experience on 
 ## Special Thanks
 ### For creating the original userscripts
 * [AdguardTeam on GitHub](https://github.com/AdguardTeam/DisableAMP)
+* [RandomUsername404 on Greasy Fork](https://greasyfork.org/en/scripts/44669-bring-back-old-reddit)
 * [SakamotoDesu on Reddit](https://reddit.com/r/animepiracy/comments/kfdmgg/any_way_to_block_the_kwik_watermark_on_animepahe/gg93qll/)
 * [StephenP on Greasy Fork](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)
 ### For providing some coding tips
