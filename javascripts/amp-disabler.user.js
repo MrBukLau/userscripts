@@ -6,8 +6,8 @@
 // @author             MrBukLau
 // @homepageURL        https://github.com/MrBukLau/userscripts
 // @supportURL         https://github.com/MrBukLau/userscripts/issues
-// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/disable-amp.user.js
-// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/disable-amp.user.js
+// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/amp-disabler.user.js
+// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/amp-disabler.user.js
 // @icon               https://amp.dev/static/img/favicon.png
 // @include            https://www.google.*/*
 // @include            https://yandex.*/*
