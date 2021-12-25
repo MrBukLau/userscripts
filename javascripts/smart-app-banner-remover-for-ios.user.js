@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Smart App Banners Remover for iOS
+// @name               Smart App Banner Remover for iOS
 // @namespace          https://github.com/MrBukLau
 // @version            1.0
 // @description        Remove Smart App Banners from mobile websites on Safari for iOS
