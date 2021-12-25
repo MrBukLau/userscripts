@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Reddit - Pop-up and Annoyance Remover for iOS
+// @name               Reddit - Annoyance Remover for iOS
 // @namespace          https://github.com/MrBukLau
 // @version            1.0
 // @description        Remove pop-ups, banners, and other annoyances from Reddit on Safari for iOS
