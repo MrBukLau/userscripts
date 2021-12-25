@@ -13,8 +13,8 @@ This repository contains userscripts to improve your web browsing experience on 
 
 ## Available Userscripts for Safari (iOS)
 ### General Web Browsing
-* [Disable AMP](https://github.com/MrBukLau/userscripts/raw/master/javascripts/disable-amp.user.js)
-* [Smart App Banners Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart-app-banners-remover-for-ios.user.js)
+* [AMP Disabler](https://github.com/MrBukLau/userscripts/raw/master/javascripts/amp-disabler.user.js)
+* [Smart App Banner Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart-app-banner-remover-for-ios.user.js)
 ### Pop-up Removal
 * [9GAG - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag-pop-up-remover-for-ios.user.js)
 * [iFunny - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/ifunny-pop-up-remover-for-ios.user.js)
