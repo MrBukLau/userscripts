@@ -6,8 +6,8 @@
 // @author             MrBukLau
 // @homepageURL        https://github.com/MrBukLau/userscripts
 // @supportURL         https://github.com/MrBukLau/userscripts/issues
-// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart-app-banners-remover-for-ios.user.js
-// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart-app-banners-remover-for-ios.user.js
+// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart-app-banner-remover-for-ios.user.js
+// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart-app-banner-remover-for-ios.user.js
 // @icon               https://www.apple.com/favicon.ico
 // @match              *://*/*
 // @grant              none
