@@ -11,7 +11,7 @@
 // @icon               https://www.apple.com/favicon.ico
 // @match              *://*/*
 // @grant              none
-// @run-at             document-start
+// @run-at             document-end
 // ==/UserScript==
 
 (document.querySelector("[name='apple-itunes-app']") || {
