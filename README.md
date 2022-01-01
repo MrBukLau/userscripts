@@ -1,4 +1,4 @@
-# Userscripts <br> [![Language](https://img.shields.io/badge/Language-JavaScript-f1e05a.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MrBukLau/userscripts/blob/master/LICENSE)
+# Userscripts <br> [![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![License](https://img.shields.io/badge/License-MIT-181717?style=flat-square&logo=github)](https://github.com/MrBukLau/userscripts/blob/master/LICENSE)
 
 This repository contains userscripts to improve your web browsing experience on Google Chrome and Safari.
 
