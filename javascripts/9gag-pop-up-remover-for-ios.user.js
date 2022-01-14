@@ -11,9 +11,9 @@
 // @icon               https://9gag.com/favicon.ico
 // @match              *://9gag.com/*
 // @grant              none
-// @run-at             document-start
+// @run-at             document-idle
 // ==/UserScript==
 
 let st = document.createElement("STYLE");
-st.textContent = ".download-app-container, .open-in-app, .post-signup-list-banner, .use-app {display: none !important} .noscroll {overflow-y: scroll !important}";
+st.textContent = ".download-app-container, .open-in-app, .post-signup-list-banner, .use-app {display: none !important;} .noscroll {overflow: auto !important;}";
 document.getElementsByTagName("HEAD")[0].appendChild(st);
