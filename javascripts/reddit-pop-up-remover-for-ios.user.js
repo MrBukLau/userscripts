@@ -11,7 +11,7 @@
 // @icon               https://www.reddit.com/favicon.ico
 // @match              *://www.reddit.com/*
 // @grant              none
-// @run-at             document-start
+// @run-at             document-idle
 // ==/UserScript==
 
 let st = document.createElement("STYLE");
