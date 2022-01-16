@@ -11,9 +11,31 @@
 // @icon               https://www.reddit.com/favicon.ico
 // @match              *://www.reddit.com/*
 // @grant              none
-// @run-at             document-idle
+// @run-at             document-end
 // ==/UserScript==
 
-let st = document.createElement("STYLE");
-st.textContent = "#blocking-modal-blur-container, .m-blurred {filter: none !important;} .GetAppFooter, .xPromoAppStoreFooter, .XPromoBlockingModal, .xPromoChoiceBanner, .XPromoInFeed, .XPromoNSFWBlocking__warning, .XPromoNSFWBlockingModal, .XPromoPill, .XPromoPopup, [data-testid = bottom-cell-wrapper], shreddit-experience-tree, xpromo-nsfw-blocking-container[slot = blurred], xpromo-nsfw-blocking-modal, xpromo-untagged-content-blocking-modal {display: none !important;} .scroll-disabled {overflow: auto !important; position: static !important;} .NavFrame, .scroll-is-blocked {overflow: auto !important;}";
-document.getElementsByTagName("HEAD")[0].appendChild(st);
+removePopups();
+removeNsfwPrompt();
+
+function removePopups() {
+    let st = document.createElement("STYLE");
+    st.textContent = "#blocking-modal-blur-container, .m-blurred {filter: none !important;} .GetAppFooter, .xPromoAppStoreFooter, .XPromoBlockingModal, .xPromoChoiceBanner, .XPromoInFeed, .XPromoNSFWBlocking__warning, .XPromoNSFWBlockingModal, .XPromoPill, .XPromoPopup, [data-testid = bottom-cell-wrapper], shreddit-experience-tree, xpromo-nsfw-blocking-container[slot = blurred], xpromo-nsfw-blocking-modal, xpromo-untagged-content-blocking-modal {display: none !important;} .scroll-disabled {overflow: auto !important; position: static !important;} .NavFrame, .scroll-is-blocked {overflow: auto !important;}";
+    document.getElementsByTagName("HEAD")[0].appendChild(st);
+}
+
+function removeNsfwPrompt() {
+    let blurredContainers = document.querySelectorAll("shreddit-blurred-container");
+    let containers = document.querySelectorAll("xpromo-nsfw-blocking-container");
+    if (containers.length > 0) {
+        for (c of containers) {
+            let stl = document.createElement("STYLE");
+            stl.innerHTML = ".prompt {display: none !important;}";
+            c.shadowRoot.appendChild(stl);
+        }
+    }
+    if (blurredContainers.length > 0) {
+        for (b of blurredContainers) {
+            b.removeAttribute("blurred");
+        }
+    }
+}
