@@ -1,6 +1,39 @@
-# Userscripts <br> [![Language](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![License](https://img.shields.io/badge/License-MIT-181717?style=flat-square&logo=github)](https://github.com/MrBukLau/userscripts/blob/master/LICENSE)
+<h1 align="center"> Userscripts </h1>
 
-This repository contains userscripts to improve your web browsing experience on Google Chrome and Safari.
+<div align="center">
+  <a href="#getting-started">Getting Started</a> |
+  <a href="#available-userscripts-for-google-chrome-desktop">Available Userscripts for Google Chrome (Desktop)</a> |
+  <a href="#available-userscripts-for-safari-ios">Available Userscripts for Safari (iOS)</a> |
+  <a href="#special-thanks">Special Thanks</a> |
+  <a href="#license">License</a>
+  <br>
+  <br>
+  This repository contains userscripts to improve your web browsing experience on Google Chrome and Safari.
+  <br>
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript">
+  </a>
+  <a href="https://github.com/MrBukLau/userscripts/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-181717?style=for-the-badge&logo=github">
+  </a>
+</div>
+
+## Getting Started
+### Installation
+1. Install an [userscript manager](https://en.wikipedia.org/wiki/Userscript_manager)
+    - Userscript Managers for Desktop
+      - [Tampermonkey](https://www.tampermonkey.net/) - Free
+      - [Violentmonkey](https://violentmonkey.github.io/) - Free
+    - Userscript Managers for iOS
+      - [Hyperweb](https://apps.apple.com/us/app/hyperweb/id1581824571) - Free With Optional Paid Subscription
+      - [Macaque](https://apps.apple.com/us/app/macaque/id1595306197) - One-Time Purchase
+      - [Stay²](https://apps.apple.com/us/app/stay-local-script-manager/id1591620171) - Free
+      - [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) - Free
+2. Install an userscript from this repository by clicking on one of the links below
+
+### Usage
+No further actions are necessary. The userscripts in this repository will work on their own without any user input.
 
 ## Available Userscripts for Google Chrome (Desktop)
 ### Apple
