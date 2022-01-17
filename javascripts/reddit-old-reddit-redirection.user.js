@@ -6,8 +6,8 @@
 // @author             MrBukLau
 // @homepageURL        https://github.com/MrBukLau/userscripts
 // @supportURL         https://github.com/MrBukLau/userscripts/issues
-// @downloadURL        
-// @updateURL          
+// @downloadURL        https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-old-reddit-redirection.user.js
+// @updateURL          https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-old-reddit-redirection.user.js
 // @icon               https://old.reddit.com/favicon.ico
 // @match              *://www.reddit.com/*
 // @exclude-match      *://www.reddit.com/poll/*
