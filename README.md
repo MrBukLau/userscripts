@@ -1,10 +1,23 @@
-<h1 align="center"> Userscripts </h1>
+<h1 align="center">
+  Userscripts
+</h1>
 
 <div align="center">
-  <a href="#getting-started">Getting Started</a> |
-  <a href="#available-userscripts">Available Userscripts</a> |
-  <a href="#special-thanks">Special Thanks</a> |
-  <a href="#license">License</a>
+  <a href="#getting-started">
+    Getting Started
+  </a>
+  |
+  <a href="#available-userscripts">
+    Available Userscripts
+  </a>
+  |
+  <a href="#special-thanks">
+    Special Thanks
+  </a>
+  |
+  <a href="#license">
+    License
+  </a>
   <br>
   <br>
   This repository contains userscripts to improve your web browsing experience on Google Chrome and Safari.
@@ -30,7 +43,6 @@
       - [Stay²](https://apps.apple.com/us/app/stay-local-script-manager/id1591620171) - Free
       - [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) - Free
 2. Install an userscript from this repository by clicking on one of the links below
-
 ### Usage
 No further actions are necessary. The userscripts in this repository will work on their own without any user input.
 
@@ -44,7 +56,6 @@ No further actions are necessary. The userscripts in this repository will work o
 #### Reddit
 - [Reddit - Libreddit Redirection](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-libreddit-redirection.user.js)
 - [Reddit - Old Reddit Redirection](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-old-reddit-redirection.user.js)
-
 ### For Safari (iOS)
 #### Annoyance Removal
 - [Reddit - Annoyance Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-annoyance-remover-for-ios.user.js)
