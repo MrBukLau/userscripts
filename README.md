@@ -50,6 +50,7 @@ No further actions are necessary. The userscripts in this repository will work o
 ### For Google Chrome (Desktop)
 #### Apple
 - [Apple Music - Album Artwork Resizer](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-album-artwork-resizer.user.js)
+- [Apple Music - Album Artwork Resizer and English Translation](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-album-artwork-resizer-and-english-translation.user.js)
 - [Apple Music - English Translation](https://github.com/MrBukLau/userscripts/raw/master/javascripts/apple-music-english-translation.user.js)
 #### Kwik
 - [Kwik - Watermark Remover](https://github.com/MrBukLau/userscripts/raw/master/javascripts/kwik-watermark-remover.user.js)
