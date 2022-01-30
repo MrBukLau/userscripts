@@ -15,16 +15,6 @@
 // @run-at             document-start
 // ==/UserScript==
 
-if (document.location.href.includes("mzstatic.com/image/thumb")) {
-    if (location.href.match("600x600bb.webp")) {
-        location.href = location.href.replace("600x600bb.webp", "2000x2000.jpeg");
-    } else if (location.href.match("600x600bf.webp")) {
-        location.href = location.href.replace("600x600bf.webp", "2000x2000.jpeg");
-    } else if (location.href.match("1000x1000bb.webp")) {
-        location.href = location.href.replace("1000x1000bb.webp", "2000x2000.jpeg");
-    }
-}
-
 if (document.location.href.includes("music.apple.com")) {
     var oldUrlSearch = window.location.search;
     if (window.location.href.indexOf("?i=") > -1) {
@@ -45,5 +35,13 @@ if (document.location.href.includes("music.apple.com")) {
                 window.location.hash;
             window.location.replace(newURL);
         }
+    }
+} else if (document.location.href.includes("mzstatic.com/image/thumb")) {
+    if (location.href.match("600x600bb.webp")) {
+        location.href = location.href.replace("600x600bb.webp", "2000x2000.jpeg");
+    } else if (location.href.match("600x600bf.webp")) {
+        location.href = location.href.replace("600x600bf.webp", "2000x2000.jpeg");
+    } else if (location.href.match("1000x1000bb.webp")) {
+        location.href = location.href.replace("1000x1000bb.webp", "2000x2000.jpeg");
     }
 }
