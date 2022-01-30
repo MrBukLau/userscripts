@@ -66,14 +66,12 @@ No further actions are necessary. The userscripts in this repository will work o
 
 ## Special Thanks
 ### For creating the original userscripts
-- [AdguardTeam on GitHub](https://github.com/AdguardTeam/DisableAMP)
 - [RandomUsername404 on Greasy Fork](https://greasyfork.org/en/scripts/44669-bring-back-old-reddit)
 - [SakamotoDesu on Reddit](https://reddit.com/r/animepiracy/comments/kfdmgg/any_way_to_block_the_kwik_watermark_on_animepahe/gg93qll/)
 - [StephenP on Greasy Fork](https://greasyfork.org/en/scripts/395497-login-reminder-popup-remover)
 ### For providing some coding tips
 - [Brock Adams on Stack Overflow](https://stackoverflow.com/questions/16065937/changing-a-pages-url-parameters)
 - [Maheer Ali on Stack Overflow](https://stackoverflow.com/questions/55890434/how-can-i-to-remove-meta-tag-using-javascript)
-- [Richard Plester on Stack Overflow](https://stackoverflow.com/questions/15475404/include-all-pages-in-tampermonkeyuserscript)
 - [Vivre on Greasy Fork](https://greasyfork.org/en/discussions/requests/55817-replace-string-in-an-url)
 
 ## License
