@@ -58,7 +58,6 @@ No further actions are necessary. The userscripts in this repository will work o
 #### Annoyance Removal
 - [Reddit - Annoyance Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-annoyance-remover-for-ios.user.js)
 #### General Web Browsing
-- [AMP Disabler](https://github.com/MrBukLau/userscripts/raw/master/javascripts/amp-disabler.user.js)
 - [Smart App Banner Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart-app-banner-remover-for-ios.user.js)
 #### Pop-up Removal
 - [9GAG - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag-pop-up-remover-for-ios.user.js)
