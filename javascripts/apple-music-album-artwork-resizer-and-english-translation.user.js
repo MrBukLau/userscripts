@@ -2,7 +2,7 @@
 // @name               Apple Music - Album Artwork Resizer and English Translation
 // @namespace          https://github.com/MrBukLau
 // @version            1.0
-// @description        Change the image format/resolution for album artworks on Apple Music and translate the words on Apple Music to English
+// @description        Change the image format/resolution for album artworks and translate the words to English
 // @author             MrBukLau
 // @homepageURL        https://github.com/MrBukLau/userscripts
 // @supportURL         https://github.com/MrBukLau/userscripts/issues
