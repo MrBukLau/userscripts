@@ -2,7 +2,7 @@
 // @name               Apple Music - Album Artwork Resizer
 // @namespace          https://github.com/MrBukLau
 // @version            1.0
-// @description        Change the image resolution and format for album artworks on Apple Music
+// @description        Change the image format/resolution for album artworks on Apple Music
 // @author             MrBukLau
 // @homepageURL        https://github.com/MrBukLau/userscripts
 // @supportURL         https://github.com/MrBukLau/userscripts/issues
