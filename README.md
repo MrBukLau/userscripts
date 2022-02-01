@@ -60,9 +60,7 @@ No further actions are necessary. The userscripts in this repository will work o
 #### General Web Browsing
 - [Smart App Banner Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/smart-app-banner-remover-for-ios.user.js)
 #### Pop-up Removal
-- [9GAG - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/9gag-pop-up-remover-for-ios.user.js)
 - [Quora - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/quora-pop-up-remover-for-ios.user.js)
-- [Reddit - Pop-up Remover for iOS](https://github.com/MrBukLau/userscripts/raw/master/javascripts/reddit-pop-up-remover-for-ios.user.js)
 
 ## Special Thanks
 ### For creating the original userscripts
