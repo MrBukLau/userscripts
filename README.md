@@ -33,14 +33,14 @@
 
 ## Getting Started
 ### Installation
-1. Install an [userscript manager](https://en.wikipedia.org/wiki/Userscript_manager)
+1. Install a [userscript manager](https://en.wikipedia.org/wiki/Userscript_manager)
     - Userscript Managers for Desktop
       - [Tampermonkey](https://www.tampermonkey.net/) - Free
       - [Violentmonkey](https://violentmonkey.github.io/) - Free
     - Userscript Managers for iOS
       - [Stay²](https://apps.apple.com/app/id1591620171) - Free
       - [Userscripts](https://apps.apple.com/app/id1463298887) - Free
-2. Install an userscript from this repository by clicking on one of the links below
+2. Install a userscript from this repository by clicking on one of the links below
 ### Usage
 No further actions are necessary. The userscripts in this repository will work on their own without any user input.
 
